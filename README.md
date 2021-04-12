@@ -1,6 +1,12 @@
 ![zdjecie](./imgs/image.png)
 
-# Technologies
+# About me
+
+<b>I am a front-end developer with a passion for learning something new every day.</b>
+
+My core interest is JavaScript and I currently focus on React and React Native mobile projects. When I write a code, I analyze, adapt and overcome. I don’t mind an improvisation if that leads to thinking out-of-the-box for transforming a business idea into a viable product. My experience in working with ERP software and hosting services allow me to tackle challenges with the user and client-centric approach. I value teamwork and follow agile model when working on projects.
+
+## ⚡ Technologies
 
 <p float="left">
     <a href="https://reactnative.dev/" style="text-decoration:none">
@@ -21,6 +27,10 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrmole96&show_icons=true&theme=default)
+
+## 🧰 My work
+
+- <a href="https://selleo.com/portfolio/messaging-mobile-application">Sample project</a>
 
 ## 📕 Blog posts
 

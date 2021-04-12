@@ -9,7 +9,7 @@
     <a href="https://redux.js.org/" style="text-decoration:none">
         <img src="./imgs/redux-original.svg" width="54"/>
     </a>
-    <a href="https://reactnative.dev/" style="text-decoration:none">
+    <a href="https://graphql.org/" style="text-decoration:none">
         <img src="./imgs/graphql-plain.svg" width="54"/>
     </a>
 </p>
@@ -20,6 +20,8 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrmole96&show_icons=true&theme=default)
+
 ## 📕 Blog posts
 
-- https://selleo.com/blog/beginners-guide-to-gherkin
+- <a href="https://selleo.com/blog/beginners-guide-to-gherkin">Beginners guide to gherkin</a>

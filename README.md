@@ -39,4 +39,4 @@ My core interest is JavaScript and I currently focus on React and React Native m
 
 ## 📕 Blog posts
 
-- <a href="https://selleo.com/blog/beginners-guide-to-gherkin">Beginners guide to gherkin</a>
+- <a href="https://selleo.com/blog/why-choose-react-native-for-your-mobile-tech-stack">Why Choose React Native For Your Mobile Tech Stack?</a>

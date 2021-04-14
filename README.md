@@ -28,9 +28,10 @@ My core interest is JavaScript and I currently focus on React and React Native m
 
 ## 💯 My stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mrmole96&show_icons=true&theme=default" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<p float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mrmole96&show_icons=true&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+</p>
 
 ## 🧰 My work
 

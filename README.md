@@ -9,13 +9,16 @@ My core interest is JavaScript and I currently focus on React and React Native m
 ## ⚡ Technologies
 
 <p float="left">
-    <a href="https://reactnative.dev/" style="text-decoration:none">
+    <a href="https://selleo.com/react-expert-developers-team" style="text-decoration:none">
         <img src="./imgs/react-original.svg" width="54"/>
     </a>
     <a href="https://redux.js.org/" style="text-decoration:none">
         <img src="./imgs/redux-original.svg" width="54"/>
     </a>
-    <a href="https://graphql.org/" style="text-decoration:none">
+        <a href="https://www.gatsbyjs.com/" style="text-decoration:none">
+        <img src="./imgs/gatsby-original.svg" width="54"/>
+    </a>
+    <a href="https://selleo.com/graphql-expert-developers-team" style="text-decoration:none">
         <img src="./imgs/graphql-plain.svg" width="54"/>
     </a>
 </p>

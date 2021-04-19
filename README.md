@@ -9,7 +9,7 @@ My core interest is JavaScript and I currently focus on React and React Native m
 ## ⚡ Technologies
 
 <p float="left">
-    <a href="https://selleo.com/react-expert-developers-team" target="_blank" style="text-decoration:none">
+    <a href="https://selleo.com/react-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
         <img src="./imgs/react-original.svg" width="54"/>
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
@@ -43,3 +43,4 @@ My core interest is JavaScript and I currently focus on React and React Native m
 ## 📕 Blog posts
 
 - <a href="https://selleo.com/blog/why-choose-react-native-for-your-mobile-tech-stack">Why Choose React Native For Your Mobile Tech Stack?</a>
+- <a href="https://selleo.com/blog/react-native-vs-flutter-the-ultimate-comparison">React Native vs Flutter: The Ultimate Comparison</a>

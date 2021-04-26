@@ -12,7 +12,7 @@ My core interest is JavaScript and I currently focus on React and React Native m
     <a href="https://selleo.com/react-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
         <img src="./imgs/ReactJS.svg"/>
     </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+    <a href="https://selleo.com/react-native-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
         <img src="./imgs/React-Native.svg"/>
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
@@ -21,14 +21,14 @@ My core interest is JavaScript and I currently focus on React and React Native m
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
         <img src="./imgs/TypeScript.svg"/>
     </a>
-     <a href="https://developer.mozilla.org/pl/docs/Web/CSS" target="_blank" rel="noopener noreferrer"          
+     <a href="https://selleo.com/ux-design" target="_blank" rel="noopener noreferrer"          
          style="text-decoration:none">   
         <img src="./imgs/Css3.svg"/>
     </a>
      <a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
         <img src="./imgs/Gatsby.svg"/>
     </a>
-     <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+     <a href="https://selleo.com/graphql-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
         <img src="./imgs/GraphQL.svg"/>
     </a>
 </p>

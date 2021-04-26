@@ -1,4 +1,4 @@
-![zdjecie](./imgs/image.png)
+![baner](./imgs/out.gif)
 
 # About me
 

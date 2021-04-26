@@ -10,16 +10,26 @@ My core interest is JavaScript and I currently focus on React and React Native m
 
 <p float="left">
     <a href="https://selleo.com/react-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/react-original.svg" width="54"/>
+        <img src="./imgs/reactjs.svg"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+        <img src="./imgs/react-native.svg"/>
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/redux-original.svg" width="54"/>
+        <img src="./imgs/redux.svg"/>
     </a>
-    <a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/gatsby-original.svg" width="54"/>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+        <img src="./imgs/typescript.svg"/>
     </a>
-    <a href="https://selleo.com/graphql-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/graphql-plain.svg" width="54"/>
+     <a href="https://developer.mozilla.org/pl/docs/Web/CSS" target="_blank" rel="noopener noreferrer"          
+         style="text-decoration:none">   
+        <img src="./imgs/css3.svg"/>
+    </a>
+     <a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+        <img src="./imgs/gatsby.svg"/>
+    </a>
+     <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
+        <img src="./imgs/graphql.svg"/>
     </a>
 </p>
 
@@ -44,3 +54,4 @@ My core interest is JavaScript and I currently focus on React and React Native m
 
 - <a href="https://selleo.com/blog/why-choose-react-native-for-your-mobile-tech-stack">Why Choose React Native For Your Mobile Tech Stack?</a>
 - <a href="https://selleo.com/blog/react-native-vs-flutter-the-ultimate-comparison">React Native vs Flutter: The Ultimate Comparison</a>
+- <a href="https://selleo.com/blog/mobile-software-development-trends-to-know-in-2021">Mobile Software Development Trends To Know In 2021</a>

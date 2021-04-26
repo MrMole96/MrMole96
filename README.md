@@ -1,12 +1,12 @@
 ![baner](./imgs/out.gif)
 
-# About me
+<h1><img style="float:left; margin-right:5px;" src="./imgs/About-me.svg" width="30" height="35"/>About me</h1>
 
 <b>I am a front-end developer with a passion for learning something new every day.</b>
 
 My core interest is JavaScript and I currently focus on React and React Native mobile projects. When I write a code, I analyze, adapt and overcome. I don’t mind an improvisation if that leads to thinking out-of-the-box for transforming a business idea into a viable product. My experience in working with ERP software and hosting services allow me to tackle challenges with the user and client-centric approach. I value teamwork and follow agile model when working on projects.
 
-## ⚡ Technologies
+<h1><img style="float:left; margin-right:5px;" src="./imgs/Technologies.svg" width="30" height="35"/>Technologies</h1>
 
 <p float="left">
     <a href="https://selleo.com/react-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
@@ -33,7 +33,7 @@ My core interest is JavaScript and I currently focus on React and React Native m
     </a>
 </p>
 
-## 🧑‍🤝‍🧑 Connect with me
+<h1><img style="float:left; margin-right:5px;" src="./imgs/Contact-with-me.svg" width="30" height="35"/>Connect with me</h1>
 
   <a href="https://www.linkedin.com/in/wojciech-rupik-311b19122/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
         <img src="./imgs/LinkedIn.svg"/>
@@ -41,7 +41,7 @@ My core interest is JavaScript and I currently focus on React and React Native m
 
 <br/>
 
-## 💯 My stats
+<h1><img style="float:left; margin-right:5px;" src="./imgs/My-stats.svg" width="30" height="35"/>My stats</h1>
 
 <p float="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Mrmole96&show_icons=true&theme=default" />
@@ -52,7 +52,7 @@ My core interest is JavaScript and I currently focus on React and React Native m
 
 - <a href="https://selleo.com/portfolio/messaging-mobile-application">Sample project</a>
 
-## 📕 Blog posts
+<h1><img style="float:left; margin-right:5px;" src="./imgs/Blog-posts.svg" width="30" height="35"/>Blog posts</h1>
 
 - <a href="https://selleo.com/blog/why-choose-react-native-for-your-mobile-tech-stack">Why Choose React Native For Your Mobile Tech Stack?</a>
 - <a href="https://selleo.com/blog/react-native-vs-flutter-the-ultimate-comparison">React Native vs Flutter: The Ultimate Comparison</a>

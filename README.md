@@ -10,26 +10,26 @@ My core interest is JavaScript and I currently focus on React and React Native m
 
 <p float="left">
     <a href="https://selleo.com/react-expert-developers-team" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/reactjs.svg"/>
+        <img src="./imgs/ReactJS.svg"/>
     </a>
     <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/react-native.svg"/>
+        <img src="./imgs/React-Native.svg"/>
     </a>
     <a href="https://redux.js.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/redux.svg"/>
+        <img src="./imgs/Redux.svg"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/typescript.svg"/>
+        <img src="./imgs/TypeScript.svg"/>
     </a>
      <a href="https://developer.mozilla.org/pl/docs/Web/CSS" target="_blank" rel="noopener noreferrer"          
          style="text-decoration:none">   
-        <img src="./imgs/css3.svg"/>
+        <img src="./imgs/Css3.svg"/>
     </a>
      <a href="https://www.gatsbyjs.com/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/gatsby.svg"/>
+        <img src="./imgs/Gatsby.svg"/>
     </a>
      <a href="https://graphql.org/" target="_blank" rel="noopener noreferrer" style="text-decoration:none">
-        <img src="./imgs/graphql.svg"/>
+        <img src="./imgs/GraphQL.svg"/>
     </a>
 </p>
 

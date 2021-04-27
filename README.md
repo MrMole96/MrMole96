@@ -1,4 +1,4 @@
-![baner](./imgs/baner.gif)
+![baner](./imgs/transparent-baner.gif)
 
 <h1><img  align="left" style="margin-right:5px;" height="40" src="./imgs/About-me.svg" width="30" />About me</h1>
 

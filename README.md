@@ -53,8 +53,3 @@ My core interest is JavaScript and I currently focus on React and React Native m
 - <a href="https://selleo.com/blog/why-choose-react-native-for-your-mobile-tech-stack">Why Choose React Native For Your Mobile Tech Stack?</a>
 - <a href="https://selleo.com/blog/react-native-vs-flutter-the-ultimate-comparison">React Native vs Flutter: The Ultimate Comparison</a>
 - <a href="https://selleo.com/blog/mobile-software-development-trends-to-know-in-2021">Mobile Software Development Trends To Know In 2021</a>
-
-
-<h1><img align="left" width="30" height="40" src="./imgs/My-projects.svg" />My projects</h1>
-
-- <a href="https://selleo.com/portfolio/messaging-mobile-application">Sample project</a>
